@@ -1,9 +1,9 @@
 # Setup
-name:         Project or Site name (Architect Theme)
+name:         huangyanrui.github.io
 tagline:      A responsive theme for your project on GitHub Pages
 baseurl:      ""
 locale:       "en"
-
+title: "一颗非洲豆的博客"
 # Gems
 gems:
   - jekyll-paginate
